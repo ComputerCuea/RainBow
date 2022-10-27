@@ -1,11 +1,12 @@
 #Working with Rainbow colors 
 Red
-Yellow 
-Orange 
+orange
+Yellow
 Green 
-blue 
+Blue 
 Indigo
 Violent 
+#i like red for the sake of mancheter united
 amber
 #Fifalegacy added amber
  CUEA
