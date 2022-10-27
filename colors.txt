@@ -6,6 +6,8 @@ Green
 blue 
 Indigo
 Violent 
+amber
+#Fifalegacy added amber
  CUEA
 green
 green
@@ -20,4 +22,3 @@ Purple
 Violet
 #i am trippie9 and theses are my changes###
  main
-
