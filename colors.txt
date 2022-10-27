@@ -1,10 +1,20 @@
 #Working with Rainbow colors 
 Red
-Yellow 
-Orange 
+orange
+Yellow
 Green 
-blue 
+Blue 
 Indigo
+Violent 
+#i like red for the sake of mancheter united
+amber
+#Fifalegacy added amber
+ CUEA
+green
+green
+#iam like blue from the above colors ~Tanui
+#I am blacspot I like blue to red.
+# tyson made changes to this file
 Violent
 #I Nelius have added Purple
 Violent 
@@ -14,4 +24,4 @@ Purple
 #I'm Sheryl 
 Violet
 #i am trippie9 and theses are my changes###
-
+ main
