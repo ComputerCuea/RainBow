@@ -6,6 +6,7 @@ Green
 blue 
 Indigo
 Violent 
+#I am blacspot I like blue to red.
 # tyson made changes to this file
 Violent
 #I Nelius have added Purple
@@ -14,5 +15,4 @@ Purple
 #I'm Sheryl 
 Violet
 #i am trippie9 and theses are my changes###
-
 
