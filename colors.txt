@@ -5,6 +5,8 @@ Orange
 Green 
 blue 
 Indigo
+Violent 
+# tyson made changes to this file
 Violent
 #I Nelius have added Purple
 Violent 
